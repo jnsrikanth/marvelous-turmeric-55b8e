@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     image: images/download.png
-    image_alt: App preview
+    image_alt: Alpha Labs Innovation
     title: Future of Innovation
     content: >
       Alpha Labs is your perfect partner to take your idea and product into a
