@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/download.png
+    image: images/purple-owl.png
     image_alt: Alpha Labs Innovation
     title: Future of Innovation
     content: >
