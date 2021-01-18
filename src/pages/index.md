@@ -7,8 +7,8 @@ sections:
     image_alt: App preview
     title: Future of Innovation
     content: >
-      Alpha Labs is your perfect partner to take your idea and product into an
-      higher orbit of possibilities.
+      Alpha Labs is your perfect partner to take your idea and product into a
+      higher orbit of possibilities that deliver succesful outcomes.
     actions:
       - label: Learn More
         url: /features
