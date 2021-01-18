@@ -20,7 +20,7 @@
                 "label": "Pricing",
                 "url": "/pricing",
                 "style": "link",
-                "has_icon": true
+                "has_icon": false
             },
             {
                 "label": "Style Guide",
