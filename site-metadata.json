@@ -3,7 +3,7 @@
     "palette": "blue",
     "header": {
         "logo_img": "images/alpha-labs-logo.svg",
-        "logo_img_alt": "Logo",
+        "logo_img_alt": "Alpha Labs Innovation Accelerator",
         "has_nav": true,
         "nav_links": [
             {
