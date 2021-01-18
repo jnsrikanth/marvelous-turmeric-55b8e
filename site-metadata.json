@@ -2,7 +2,7 @@
     "base_font": "nunito-sans",
     "palette": "blue",
     "header": {
-        "logo_img": "images/alpha-labs-logo-transparent.png",
+        "logo_img": "images/alpha-labs-logo-1024px.png",
         "logo_img_alt": "Alpha Labs Innovation Accelerator",
         "has_nav": true,
         "nav_links": [
