@@ -40,7 +40,8 @@
                 "image": "images/alpha-labs-logo.svg",
                 "image_url": "/",
                 "image_alt": "Alpha Labs",
-                "content": ""
+                "content": "",
+                "title": "Alpha Labs"
             },
             {
                 "type": "footer_nav",
