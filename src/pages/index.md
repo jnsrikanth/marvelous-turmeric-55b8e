@@ -6,9 +6,9 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: Future of Innovation
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+    content: >
+      Alpha Labs is your perfect partner to take your idea and product into an
+      higher orbit of possibilities.
     actions:
       - label: Learn More
         url: /features
