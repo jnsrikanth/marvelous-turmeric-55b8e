@@ -12,17 +12,16 @@
                 "style": "link"
             },
             {
-                "label": "Features",
+                "label": "Our Services",
                 "url": "/features",
                 "style": "link"
             },
             {
-                "label": "Pricing",
                 "url": "/pricing",
-                "style": "link"
+                "style": "link",
+                "has_icon": false
             },
             {
-                "label": "Style Guide",
                 "url": "/style-guide",
                 "style": "link"
             },
